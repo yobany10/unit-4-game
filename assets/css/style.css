@@ -18,6 +18,25 @@ body {
 }
 
 .captain {
-    display: block;
-    width: 100%;
+    height: 42%;
+    vertical-align: bottom;
+}
+
+.thanos {
+    height: 42%;
+    vertical-align: bottom;
+}
+
+.venom {
+    height: 42%;
+    vertical-align: bottom;
+}
+
+.ultron {
+    height: 42%;
+    vertical-align: bottom;
+}
+
+.center {
+    margin: auto;
 }
