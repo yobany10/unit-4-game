@@ -2,7 +2,17 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 40%;
+}
+
+.chooseFighter {
+    color: white;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+.attackButton {
+    color: white;
 }
 
 body {
@@ -11,9 +21,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-}
-
-.bg {
+    background-color: black;
 }
 
 .captain {
@@ -34,8 +42,4 @@ body {
 .ultron {
     height: 42%;
     vertical-align: bottom;
-}
-
-.center {
-    margin: auto;
 }
